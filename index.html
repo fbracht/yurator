@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<title>Yurator</title>
 		<meta charset="UTF-8">
+		<link rel="icon" href="imgs/favicon-questionblock.ico" />
 		<link rel="stylesheet" href="yurator.css">
+		<link href='http://fonts.googleapis.com/css?family=Titillium+Web:200,300,400italic,900' rel='stylesheet' type='text/css'>
 		<script type="text/javascript" src="yurator.js"></script>
 		<script>
 			function myFunction() {
@@ -13,10 +16,15 @@
 	</head>
 
 	<body>
-		<div>
+		<div class="content">
 			<h1>Yurator</h1>
-			<button type="button" onclick="myFunction()">Yurar</button>
-			<p id="yurice">O que será que aconteceria com o feminismo se você clicasse na minha cara?</p>
+			<p class="tagline">Gerador de perguntas Yurianas | v1.0</p>
+			<div class="stage">
+				<img class="yuri-face" onclick="myFunction()" src="imgs/yurione.jpg" alt="Click-a me! Woohoo!">
+				<div class="yurice-container">
+					<p id="yurice">Clique na minha cara se você é homem! <br/>(Ou mulher, transgênero ou transracial — não quero discriminar ninguém.)</p>
+				</div>
+			</div>
 		</div>
 	</body>
 
