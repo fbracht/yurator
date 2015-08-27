@@ -112,8 +112,8 @@ Yuri.prototype.getTema = function(tipo, tema) {
 
 Yuri.prototype.yurar = function() {
 	var tema;
-	var i = 0;
-	var j = 1;
+	var i;
+	var j;
 	var fraseEDados = this.getRandomElement(this.frases);
 
 	var frase = fraseEDados[0];
