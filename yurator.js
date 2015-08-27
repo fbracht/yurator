@@ -127,9 +127,5 @@ Yuri.prototype.yurar = function() {
 
 	frase = frase.capitalizeFirstLetter();
 
-	/*if (Math.random() > 0.7) {
-		frase = "Pergunta Yuriana: " + frase;
-	}*/
-
 	return frase;
 }
