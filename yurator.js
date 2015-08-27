@@ -21,8 +21,8 @@ function Yuri() {
 	];
 
 	this.temas = [
-		Array("a ", "sua ", "homofobia", "homof&oacutebico"),
-		Array("a ", "sua ", "misoginia", "mis&oacutegino"),
+		Array("a ", "sua ", "homofobia", "homofóbico"),
+		Array("a ", "sua ", "misoginia", "misógino"),
 		Array("a ", "sua ", "xenofobia", "xenof&oacutebico"),
 		Array("o ", "seu ", "transsexualismo", "transsexual"),
 		Array("o ", "seu ", "feminismo", "feminista"),
