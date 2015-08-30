@@ -48,7 +48,7 @@ h1 {
 	-ms-flex-align: center;
 	align-items: center;
 	background-color: white;
-	border-radius: 10rem; 
+	border-radius: 1rem; 
 }
 
 .yuri-face {
@@ -59,7 +59,7 @@ h1 {
 	height: 100%;
 	margin-right: 2rem;
 	border: thick solid white;
-	border-radius: 10rem;
+	border-radius: 1rem;
 }
 
 .yurice-container {
