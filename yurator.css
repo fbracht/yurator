@@ -27,11 +27,12 @@ h1 {
 	font-size: 10rem;
 	line-height: 2rem;
 	margin-bottom: 3rem;
+	letter-spacing: -0.4rem;
 }
 
 .tagline {
 	font-weight: 400;
-	font-size: 1rem;
+	font-size: 1.3rem;
 	margin-bottom: 5rem;
 }
 
