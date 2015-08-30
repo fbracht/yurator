@@ -96,3 +96,16 @@ h1 {
 #yurice::after {
 	content: close-quote;
 }
+
+/* Animations */
+
+.yuri-face {
+	-webkit-transition: 0.3s all;
+	        transition: 0.3s all; 
+}
+
+.yuri-face:hover {
+	-webkit-transform: scale(1.1);
+	    -ms-transform: scale(1.1);
+	        transform: scale(1.1);
+}
