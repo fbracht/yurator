@@ -92,19 +92,13 @@ h1 {
 	quotes: "“" "”" "‘" "’";
 }
 
-#yurice::before {
+#yurice::before,
+.quote::before{
 	content: open-quote;
 }
 
-#yurice::after {
-	content: close-quote;
-}
-
-.quote::before {
-	content: open-quote;
-}
-
-.quote::after {
+#yurice::after,
+.quote::after{
 	content: close-quote;
 }
 
@@ -114,6 +108,10 @@ h1 {
 
 .kern--closer {
 	letter-spacing: -1rem;
+}
+
+.kern--now-im-fucking-nitpicking {
+	letter-spacing: -0.08rem;
 }
 
 
