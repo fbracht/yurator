@@ -1,4 +1,3 @@
-
 String.prototype.capitalizeFirstLetter = function() {
     return this.charAt(0).toUpperCase() + this.slice(1);
 }
@@ -62,14 +61,30 @@ function Yuri() {
 	];
 
 	this.frasesProntas = [
-		"Fifa 16 tem times femininos. Fuck Yeah!",
+		"FIFA 16 tem times femininos. Fuck Yeah!",
 		"Acho que vou doar meu rim.",
-		"Se você falar pra alguém te estuprar ainda é estupro?",
+		"Se você falar pra alguém te estuprar, ainda é estupro?",
 		"O que acontece se voce tocar a Song of Time dentro da Lua?",
 		"Tô pensando se tento virar modelo de barba.",
 		"Pão de queijo não se compara. Pão de queijo se come.",
 		"Alguém topa um café?",
-		"Ser cuzão privilegiado ou hipócrita privilegiado?"
+		"Ser cuzão privilegiado ou hipócrita privilegiado?",
+		"Acho que a gente tem que começar pelo lado contrário.",
+		"Acho que eu vou, porque não tem motivo pra eu não ir.",
+		"Claro que é muito difícil ter uma resposta boa pra esse questionamento, mas vai ver tem uma semi-resposta.",
+		"Cara, eu to muito confuso.",
+		"Pra uma pessoa ser algo ela precisa ter liberdade?",
+		"Dá até pra questionar isso pela perspectiva dos animais.",
+		"Como daria pra <span class='quote'>medir</span> intenções?",
+		"Não tem nenhum valor ou conceito que é aceito por 90% dos humanos?",
+		"Megaman no Smash Bros!!!",
+		"To quase fazendo a barba. Alguém me ajuda.",
+		"Felicidade, Pearl Jam e casquinha de sorvete comestível.",
+		"Vou tatuar <span class='quote'>Misery is wasted on the miserable</span>.",
+		"Quero ser ascendente em aquário por causa do Camus.",
+		"Matar Hitler é oportunismo de esquerda?",
+		"Depois de pensar muito, cheguei à conclusão que eu tenho uma opinião super polêmica.",
+		"Gente, perdi o controle com esse negócio de pegar mulher."
 		];
 
 	this.frases = [

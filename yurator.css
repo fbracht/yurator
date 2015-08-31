@@ -100,6 +100,14 @@ h1 {
 	content: close-quote;
 }
 
+.quote::before {
+	content: open-quote;
+}
+
+.quote::after {
+	content: close-quote;
+}
+
 .kern--little-closer {
 	letter-spacing: -0.5rem;
 }
